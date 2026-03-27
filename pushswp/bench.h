@@ -1,0 +1,54 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   bench.h                                            :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: njrafano <njrafano@student.42antananari    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2026/03/18 19:05:41 by rsitraki          #+#    #+#             */
+/*   Updated: 2026/03/18 20:11:06 by njrafano         ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+#ifndef BENCH_H
+# define BENCH_H
+# include "libft/libft.h"
+
+typedef struct s_node	t_node;
+
+typedef struct s_bench
+{
+	int					sa;
+	int					sb;
+	int					ss;
+	int					pa;
+	int					pb;
+	int					ra;
+	int					rb;
+	int					rr;
+	int					rra;
+	int					rrb;
+	int					rrr;
+}						t_bench;
+
+void					init_bench(t_bench *bench);
+void					bench_sa(t_bench *bench);
+void					bench_sb(t_bench *bench);
+void					bench_ss(t_bench *bench);
+void					bench_pa(t_bench *bench);
+void					bench_pb(t_bench *bench);
+void					bench_ra(t_bench *bench);
+void					bench_rb(t_bench *bench);
+void					bench_rr(t_bench *bench);
+void					bench_rra(t_bench *bench);
+void					bench_rrb(t_bench *bench);
+void					bench_rrr(t_bench *bench);
+int						get_total_ops(t_bench *bench);
+char					*get_strategy_name(char *flag, float disorder);
+float					compute_disorder(t_node **a);
+void					exec_algo(char *flag, t_node **a, t_node **b,
+							t_bench *bench);
+void					ft_adaptive_algo(t_node **stack_a, t_node **stack_b,
+							t_bench *bench);
+
+#endif
