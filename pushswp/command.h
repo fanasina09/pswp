@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   command.h                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:08:52 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:08:53 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:08:21 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:08:23 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

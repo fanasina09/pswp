@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   rotation.c                                         :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:15:11 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:15:12 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:16:25 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:16:28 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

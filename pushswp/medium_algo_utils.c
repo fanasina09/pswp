@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   medium_algo_utils.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:11:56 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:11:57 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:12:43 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:12:45 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

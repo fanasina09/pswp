@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.c                                             :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: njrafano <njrafano@student.42antananari    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:11:37 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 20:13:44 by njrafano         ###   ########.fr       */
+/*   Created: 2026/04/16 01:10:06 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:10:07 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

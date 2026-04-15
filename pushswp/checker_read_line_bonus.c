@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   checker_read_line_bonus.c                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:06:50 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 23:51:12 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:07:46 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:07:49 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

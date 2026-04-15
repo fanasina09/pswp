@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   simple_algo.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:15:29 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:15:30 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:16:49 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:16:50 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

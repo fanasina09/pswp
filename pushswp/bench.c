@@ -3,12 +3,13 @@
 /*                                                        :::      ::::::::   */
 /*   bench.c                                            :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: njrafano <njrafano@student.42antananari    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:05:23 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 20:11:01 by njrafano         ###   ########.fr       */
+/*   Created: 2026/04/16 01:06:40 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:06:41 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "bench.h"
 #include "push_swap.h"

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   parsing.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:14:01 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:14:02 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:14:22 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:14:24 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

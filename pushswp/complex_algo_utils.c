@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   complex_algo_utils.c                               :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:09:18 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:09:19 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:08:39 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:08:41 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

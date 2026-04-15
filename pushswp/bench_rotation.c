@@ -3,26 +3,27 @@
 /*                                                        :::      ::::::::   */
 /*   bench_rotation.c                                   :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: njrafano <njrafano@student.42antananari    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:04:34 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 20:10:44 by njrafano         ###   ########.fr       */
+/*   Created: 2026/04/16 01:05:22 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:05:56 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
 
 #include "bench.h"
 
 void	bench_ra(t_bench *bench)
 {
-	bench->ra++;
+	bench -> ra ++;
 }
 
 void	bench_rb(t_bench *bench)
 {
-	bench->rb++;
+	bench -> rb ++;
 }
 
 void	bench_rr(t_bench *bench)
 {
-	bench->rr++;
+	bench -> rr ++;
 }

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   adaptive_algo.c                                    :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: njrafano <njrafano@student.42antananari    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:03:20 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 20:10:24 by njrafano         ###   ########.fr       */
+/*   Created: 2026/04/16 01:04:29 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:04:34 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

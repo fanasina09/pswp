@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   validation.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:16:07 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:16:08 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:17:10 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:17:12 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

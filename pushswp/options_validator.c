@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   options_validator.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:13:24 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:13:25 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:13:37 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:13:39 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

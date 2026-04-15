@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   calcul_end_index.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:05:59 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:06:00 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:07:02 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:07:07 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

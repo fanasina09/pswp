@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   common_utils.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:09:05 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:09:06 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:08:31 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:08:33 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

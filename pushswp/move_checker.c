@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   move_checker.c                                     :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:12:47 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 23:50:33 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:13:12 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:13:14 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

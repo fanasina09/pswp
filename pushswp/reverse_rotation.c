@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   reverse_rotation.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:14:49 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:14:50 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:16:02 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:16:04 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

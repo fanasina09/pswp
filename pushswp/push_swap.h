@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   push_swap.h                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: rsitraki < rsitraki@student.42antananar    +#+  +:+       +#+        */
+/*   By: faharila <faharila@student.42antananari    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2026/03/18 19:14:12 by rsitraki          #+#    #+#             */
-/*   Updated: 2026/03/18 19:14:13 by rsitraki         ###   ########.fr       */
+/*   Created: 2026/04/16 01:14:34 by faharila          #+#    #+#             */
+/*   Updated: 2026/04/16 01:14:35 by faharila         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
